@@ -1,4 +1,3 @@
-
 Molasses Chess AI and Engine
 
 	Copyright 2022 Alex Boxall
@@ -28,7 +27,6 @@ The above copyright notice and license does not apply to the icons found in /ico
 Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license (https://creativecommons.org/licenses/by-sa/3.0/).
 The icons originate from Wikimedia (https://commons.wikimedia.org/wiki/Category:SVG_chess_pieces), and were created
 by Cburnett (https://commons.wikimedia.org/wiki/User:Cburnett, https://en.wikipedia.org/wiki/User:Cburnett)
-
 
 
 The alpha-beta pruning logic found in AI.cpp, is based on the implementation in Sebastian Lague's chess AI
